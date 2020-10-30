@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters copyright="anvsoftPFMTheme">
+    <preferences>
+        <global>
+            <basic_property html_title="Title" loadStyle="Pie" hideAdobeMenu="false" photoDynamicShow="true" enableURL="true" anvsoftMenu="false" startAutoPlay="true" screenfullButton="true" frameRate="30"/>
+            <music_property path="" stream="true" loop="true"/>
+            <description_property enable="true" backgroundColor="0xc0c0c0" backgroundAlpha="30" cssText="a:link{text-decoration: underline;} a:hover{color:#ff0000; text-decoration: none;} a:active{color:#0000ff;text-decoration: none;} .blue {color:#0000ff; font-size:15px; font-style:italic; text-decoration: underline;} .body{color:#ff5500;font-size:20px;}" align="top"/>
+            <faceText_property soundButtonText="Sound Control" prevButtonText="Previous" nextButtonText="Next" stopPlayButtonText="Play Control" thumButtonText="Show Thumbnail" screenfullButtonText="Full Screen"/>
+            <background_property backgroundColor="0x595959" backgroundImage="res/bg-0026.gif" mode="tile"/>
+        </global>
+        <photo>
+            <basic_property photoBackColor="0x1d1d1d" photoTitleColor="0xc0c0c0" PhotoMaxWidth="700" PhotoMaxHeight="525"/>
+        </photo>
+        <thumbnail>
+            <basic_property previewWidth="80" previewHeight="60" thumbnailTextColor="0xc0c0c0" thumbnailColor="0x000000"/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture (1)" width="600" height="401"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture (10)" width="600" height="401"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture (11)" width="600" height="401"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture (12)" width="600" height="401"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture (13)" width="600" height="401"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture (14)" width="600" height="401"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture (2)" width="600" height="401"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture (3)" width="600" height="401"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture (4)" width="600" height="401"/>
+        <slide jpegURL="thumbs/t_0010.jpg" d_URL="slides/p_0010.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture (5)" width="600" height="401"/>
+        <slide jpegURL="thumbs/t_0011.jpg" d_URL="slides/p_0011.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture (6)" width="600" height="401"/>
+        <slide jpegURL="thumbs/t_0012.jpg" d_URL="slides/p_0012.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture (7)" width="600" height="401"/>
+        <slide jpegURL="thumbs/t_0013.jpg" d_URL="slides/p_0013.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture (8)" width="600" height="401"/>
+        <slide jpegURL="thumbs/t_0014.jpg" d_URL="slides/p_0014.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture (9)" width="600" height="401"/>
+        <slide jpegURL="thumbs/t_0015.jpg" d_URL="slides/p_0015.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" transitiontime="2" url="http://www.photo-flash-maker.com/introduce-photo-flash-maker.php" title="furniture" width="600" height="401"/>
+    </album>
+</flash_parameters>
